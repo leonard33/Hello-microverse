@@ -21,3 +21,5 @@ Authors
 Show your support
 Give a ⭐️ if you like this project!
 
+Acknowledgment:
+I thank Microverse for the materials given to understand the git workflow and use of linter
